@@ -20,7 +20,4 @@ Pour inlcure un fichier js dans cette route, il faut modifier la variable routeJ
 Il faut ajouter un ligne suivant ce fonctionnement : 
 principe : "/route": "js/monFichier.js"
 exemple  : "/route": "pathToFilejs"# FrontAPI2023
-# FrontAPI2023
-# FrontApi2023
-# API_Front2023
-# API_Front2023
+
